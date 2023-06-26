@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m really into TypeScript, C#, JavaScript and SQL
+- 💬 I like creating formal and complex systems with PostgreSQL and more creative ones with MongoDB
+- ⚡ Fun fact: I'd really like to create a great programming language, model or system
 <!--
 **softEsteban/softEsteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
