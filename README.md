@@ -1,12 +1,13 @@
 ### Hi. Read code, commit or chill exploring these repos! ☕👽
 
 
-- 💻 I’m really into TypeScript, C#, JavaScript, Python and SQL
+- 💻 I'm really into TypeScript, C#, JavaScript, Python and SQL
 - 💬 I like creating formal and complex systems with PostgreSQL and more creative ones with MongoDB
 - ⚡ Building with Angular feels just fine!
 - 🤖 Fun fact: I'd like to create a great programming language, model or system
 - 🐱 Why is Nestjs so nice??
 - 🌱 I love nature and mountains!
+- 🐳 I'm doing my best to learn Docker
   
 ---
 
