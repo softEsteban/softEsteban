@@ -8,7 +8,8 @@
 - 🐱 Why is Nestjs so nice??
 - 🌱 I love nature and mountains!
 - 🐳 I'm doing my best to learn Docker
-  
+- 🙆 When I craft software and learn new technologies, I try to keep it as closer to the user as posible.
+  At the end they will make our software mature, grow and improve.
 ---
 
 
