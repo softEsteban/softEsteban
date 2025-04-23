@@ -1,15 +1,12 @@
-### Hi. Read code, commit or chill exploring these repos! ☕👽
+### Hey. Read code, clone or chill exploring these repos! ☕👽
 
-
-- 💻 I'm really into TypeScript, C#, JavaScript, Python and SQL
-- 💬 I like creating formal and complex systems with PostgreSQL and more creative ones with MongoDB
-- ⚡ Building with Angular feels just fine!
-- 🤖 Fun fact: I'd like to create a great programming language, model or system
+- ✈️ Right now I'm building [agentrip.co](https://www.agentrip.co/): My first indie hacking approach. 
+- 💻 I'm really into TypeScript, JavaScript, Python and SQL
+- 💬 I like creating PostgreSQL and MongoDB
+- ⚡ Building with Nextjs feels just fine!
 - 🐱 Why is Nestjs so nice??
-- 🌱 I love nature and mountains!
-- 🐳 I'm doing my best to learn Docker
-- 🙆 When I craft software and learn new technologies, I try to keep it as closer to the user as posible.
-  At the end they will make our software mature, grow and improve.
+- 🌱 I love nature, mountains and the sea!
+- 🙆 What if we build something together? [Reach out!](https://www.linkedin.com/in/softesteban/)
 ---
 <!--
 **softEsteban/softEsteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
