@@ -1,24 +1,22 @@
-### Hey. Read code, clone or chill exploring these repos! ☕👽
+## Hey — read code, clone repos or just chill exploring ☕👽  
 
-- ✈️ Right now I'm building [agentrip.co](https://www.agentrip.co/): My first indie hacking approach. 
-- 💻 I'm really into TypeScript, JavaScript, Python and SQL
-- 💬 I like creating PostgreSQL and MongoDB
-- ⚡ Building with Nextjs feels just fine!
-- 🐱 Why is Nestjs so nice??
-- 🌱 I love nature, mountains and the sea!
-- 🙆 What if we build something together? [Reach out!](https://www.linkedin.com/in/softesteban/)
+- ✈️ Currently building **Daili App** → https://daili-app-nu.vercel.app/  
+  Personal planning, notes, projects & budget system in one place.
+
+- 🚀 Side projects:
+  - **Ancestralis House** — community, purpose & meaningful living.
+  - **Islarepa** — building from Isla Fuerte, tech + nature lifestyle.
+
+- 💻 Tech stack I enjoy:
+  TypeScript · Next.js · Supabase · Vercel  
+  Fast to build. Easy to test. Ready to ship.
+
+- 🧠 Curious about backend architecture (and yes… NestJS is kinda beautiful).
+
+- 🌱 Into nature, mountains, the sea & building things that matter.
+
 ---
-<!--
-**softEsteban/softEsteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let’s connect
+- 💼 LinkedIn → https://www.linkedin.com/in/softesteban/  
+- 📲 WhatsApp → https://wa.me/573045500182  
