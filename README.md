@@ -1,19 +1,29 @@
-## Hey — read code, clone repos or just chill exploring ☕👽  
+## Hey — build, explore or just vibe ☕🌴  
 
-- ✈️ Currently building **Daili App** → https://daili-app-nu.vercel.app/  
-  Personal planning, notes, projects & budget system in one place.
+- 🌐 Website → https://estebantoro.co  
 
-- 🚀 Side projects:
-  - **Ancestralis House** — community, purpose & meaningful living.
-  - **Islarepa** — building from Isla Fuerte, tech + nature lifestyle.
+- ✈️ Currently building **Daili** → https://daili-app-nu.vercel.app/  
+  An AI-powered system for planning, tracking and designing your life (not just tasks).
 
-- 💻 Tech stack I enjoy:
-  TypeScript · Next.js · Supabase · Vercel  
-  Fast to build. Easy to test. Ready to ship.
+- 🤖 Building **Agent Kit**  
+  A starter system to launch AI-powered products faster:  
+  generate ideas, educate users, convert visitors, sell services & manage reservations — all with agents.
 
-- 🧠 Curious about backend architecture (and yes… NestJS is kinda beautiful).
+- 🚀 Main focus:
+  - **Ancestralis House** — meaningful living, community & alternative lifestyles.
+  - **Islarepa** — local business selling *arepas rellenas* grilled over charcoal (sabor a carbón 🔥).
+  - **AI Agents & Systems** — automating workflows, travel planning & decision-making.
 
-- 🌱 Into nature, mountains, the sea & building things that matter.
+- 💻 Tech I use to move fast:
+  TypeScript · Next.js · Supabase · Vercel · AI APIs  
+  Build → test → ship → iterate.
+
+- 🧠 Obsessed with:
+  Systems that make money, save time & create freedom.  
+  Backend architecture, automation & scalable ideas.
+
+- 🌱 Into:
+  Nature, the ocean, simple living & creating things that actually matter.
 
 ---
 
