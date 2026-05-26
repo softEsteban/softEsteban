@@ -1,8 +1,8 @@
 ## Hey — build, explore or just vibe ☕🌴  
 
-- 🌐 Website → https://estebantoro.co  
+- 🌐 Website → estebantoro.co  
 
-- ✈️ Currently building **Daili** → https://dailiapp.co  
+- ✈️ Currently building **Daili** → dailiapp.co  
   An AI-powered system for planning, tracking and designing your life (not just tasks).
 
 - 🤖 Building **Agent Kit**  
