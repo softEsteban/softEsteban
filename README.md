@@ -1,32 +1,20 @@
-## Hey — build, explore or just vibe ☕🌴  
+## Hey ☕🌴
 
-- 🌐 Website → estebantoro.co  
+I build software, AI agents and experiments around freedom, creativity and intentional living.
 
-- ✈️ Currently building **Daili** → dailiapp.co  
-  An AI-powered system for planning, tracking and designing your life (not just tasks).
+Currently:
+- ⚡ Building **Daili** → https://dailiapp.co AI-powered life design, planning & personal growth.
+- 🤖 Building **Agent Kit**
+- 🏝️ Exploring community projects in Isla Fuerte
 
-- 🤖 Building **Agent Kit**  
-  A starter system to launch AI-powered products faster:  
-  generate ideas, educate users, convert visitors, sell services & manage reservations — all with agents.
+Interested in:
+- AI
+- Personal knowledge systems
+- Digital nomad life
+- Beautiful products
+- Creating more than consuming
 
-- 🚀 Main focus:
-  - **Ancestralis House** — meaningful living, community & alternative lifestyles.
-  - **Islarepa** — local business selling *arepas rellenas* grilled over charcoal (sabor a carbón 🔥).
-  - **AI Agents & Systems** — automating workflows, travel planning & decision-making.
+Stack:
+TypeScript · Next.js · React Native · Supabase · Vercel
 
-- 💻 Tech I use to move fast:
-  TypeScript · Next.js · Supabase · Vercel · AI APIs  
-  Build → test → ship → iterate.
-
-- 🧠 Obsessed with:
-  Systems that make money, save time & create freedom.  
-  Backend architecture, automation & scalable ideas.
-
-- 🌱 Into:
-  Nature, the ocean, simple living & creating things that actually matter.
-
----
-
-### Let’s connect
-- 💼 LinkedIn → https://www.linkedin.com/in/softesteban/  
-- 📲 WhatsApp → https://wa.me/573045500182  
+🌐 estebantoro.co
