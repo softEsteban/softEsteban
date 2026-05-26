@@ -2,7 +2,7 @@
 
 - 🌐 Website → https://estebantoro.co  
 
-- ✈️ Currently building **Daili** → https://daili-app-nu.vercel.app/  
+- ✈️ Currently building **Daili** → https://dailiapp.co  
   An AI-powered system for planning, tracking and designing your life (not just tasks).
 
 - 🤖 Building **Agent Kit**  
